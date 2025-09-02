@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Link & Image</title>
+</head>
+<body>
+  <h2>My Favorite Website</h2>
+  <p>Visit <a href="https://www.google.com">Google</a></p>
+  
+  <h3>My Favorite Image</h3>
+  <img src="https://via.placeholder.com/150" alt="Sample Image">
+</body>
+</html>
